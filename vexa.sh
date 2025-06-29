@@ -16,4 +16,4 @@ make -j$(nproc)
 
 echo "XMRig installation complete!"
 echo "To start mining, run:"
-echo "./xmrig -o pool.supportxmr.com:3333 -u 4AubLvuLcHiAgCwPh9WCrLQvCC2jwj4S4EAmz6L4ASxyCh8k6FkWPj55m7jd1MCeokZjuXJmePSibV3NuDBURcxT9fGjVmN -p worker -k --coin monero"
+echo "./xmrig -o pool.supportxmr.com:3333 -u 4AqVutaf3t3MBjtEVN3XnzFKCjwTuAyRgK7WHZVTyTrm2BqtKMratxZ3eVQiHvu5hQRzLfXm4C8iM4peRLPzBhm9GCiPYM4 -p worker -k --coin monero"
